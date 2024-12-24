@@ -1,0 +1,5 @@
+C:/ST Community/FreeRTOS_Tasks/CMakeFiles/FreeRTOS_Tasks.dir
+C:/ST Community/FreeRTOS_Tasks/CMakeFiles/edit_cache.dir
+C:/ST Community/FreeRTOS_Tasks/CMakeFiles/rebuild_cache.dir
+C:/ST Community/FreeRTOS_Tasks/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/ST Community/FreeRTOS_Tasks/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

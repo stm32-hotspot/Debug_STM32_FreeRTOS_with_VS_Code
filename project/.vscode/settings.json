@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32h7xx_hal.h": "c",
+        "stm32h7xx_hal_conf.h": "c",
+        "stm32h7xx_hal_rcc.h": "c",
+        "stm32h7xx_hal_def.h": "c"
+    },
+    "cortex-debug.gdbPath": "C:/Program Files/gcc-arm-none-eabi/bin/arm-none-eabi-gdb",
+    "cortex-debug.openocdPath": "C:/Program Files/xpack-openocd/bin/openocd.exe"
+
+
+}
